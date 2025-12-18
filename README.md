@@ -11,7 +11,7 @@ Fecha: 21 de Diciembre 2025
 
 ---
 
-## 1. Nombre del proyecto
+## 1. Proyecto Integrador Piedra, Papel y Tijeras
 
 El impacto de las nuevas tecnologías en la sociedad: visualización del futuro.
 
