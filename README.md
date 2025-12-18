@@ -93,11 +93,11 @@ Esta decisión fue tomada de manera consciente y justificada, alineada con los o
 
 Modo consola:
 
-- python3 "Piedra, papel y tijeras.py" --console
+- Ocupar el primer archivo con el nombre "Piedra, papel y tijeras.py" 
 
 Modo interfaz gráfica:
 
-- python3 "Piedra, papel y tijeras.py"
+- Ocupar el segundo archivo con el nombre "Piedra, papel y tijeras (GUI).py"
 
 ---
 
